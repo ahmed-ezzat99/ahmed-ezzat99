@@ -1,12 +1,12 @@
-B<h1 align="center">Hi 👋, I'm Ahmed Ezzat</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Ezzat</h1>
 <h3 align="center">Data Analyst & ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-ezzat99&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ezzat99" /> </p>
 
-<p><img align="right" width="400" src="https://www.twinword.com/wp-content/uploads/sites/7/2015/11/machine_learning.jpg"  /></p>
+<p><img align="right" width="450" src="https://www.twinword.com/wp-content/uploads/sites/7/2015/11/machine_learning.jpg"  /></p>
 
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning courses**
 
 - 📫 How to reach me **ahmedezza4555@gmail.com**
 
