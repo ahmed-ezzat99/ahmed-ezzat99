@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-ezzat99&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ezzat99" /> </p>
 
-<p><img align="right" width="450" src="https://www.twinword.com/wp-content/uploads/sites/7/2015/11/machine_learning.jpg"  /></p>
+<p><img align="right" width="370" src="https://www.twinword.com/wp-content/uploads/sites/7/2015/11/machine_learning.jpg"  /></p>
 
 
 - 🌱 I’m currently learning **Machine Learning courses**
